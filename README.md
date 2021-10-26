@@ -1,5 +1,9 @@
 ## Hi there, my name is Antony Klintsov 👋
 
+
+---
+
+
 ### I'm sudent of BSUIR and some facts about me:
 
 - 🔭 I’m currently working on IIT Department site.
@@ -7,6 +11,9 @@
 - 👯 I’m looking to collaborate with somebody (please)!!!
 - 💬 Ask me about... No, just chat me.
 - ⚡ Fun fact: I'm crazy about astronomy.
+
+
+---
 
 
 ### Languages and tools:
@@ -21,6 +28,10 @@
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+
+
+---
+
 
 ### You can find me in:
 
