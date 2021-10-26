@@ -1,5 +1,9 @@
 ### Hi there 👋
-## My name is Antony Klintsov
+
+
+### My name is Antony Klintsov
+
+[![Instagram](https://img.shields.io/instagram/url?color=red&label=dartosh_kl&logoColor=red&style=social&url=https%3A%2F%2Fwww.instagram.com%2Fdartosh_kl%2F)](https://www.instagram.com/dartosh_kl/)
 <!--
 **Dartosh/Dartosh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
