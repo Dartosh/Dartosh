@@ -3,7 +3,8 @@
 
 ### My name is Antony Klintsov
 
-[![Instagram](https://img.shields.io/badge/dartosh_kl-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Dartosh_Kl)
+[![Telegram](https://img.shields.io/badge/telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Dartosh_Kl)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dartosh_kl/)
 <!--
 **Dartosh/Dartosh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
