@@ -1,7 +1,6 @@
-### Hi there 👋
+## Hi there, my name is Antony Klintsov 👋
 
-
-### My name is Antony Klintsov
+### My social links:
 
 [![Telegram](https://img.shields.io/badge/telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Dartosh_Kl)
 <br />
