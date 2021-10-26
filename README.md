@@ -1,9 +1,6 @@
 ## Hi there, my name is Antony Klintsov 👋
 
 
----
-
-
 ### I'm sudent of BSUIR and some facts about me:
 
 - 🔭 I’m currently working on IIT Department site.
@@ -30,8 +27,8 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 
----
 
+---
 
 ### You can find me in:
 
