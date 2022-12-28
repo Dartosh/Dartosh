@@ -3,9 +3,8 @@
 
 ### I'm sudent of BSUIR and some facts about me:
 
-- 🔭 I’m currently working on IIT Department site.
+- 🔭 I’m currently working at "Tapston Development".
 - 🌱 I’m currently learning everything about Web Development.
-- 👯 I’m looking to collaborate with somebody (please)!!!
 - 💬 Ask me about... No, just chat me.
 - ⚡ Fun fact: I'm crazy about astronomy.
 
@@ -29,6 +28,9 @@
 ---
 
 ### You can find me in:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dartosh/)
+<br />
 
 [![Telegram](https://img.shields.io/badge/telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Dartosh_Kl)
 <br />
